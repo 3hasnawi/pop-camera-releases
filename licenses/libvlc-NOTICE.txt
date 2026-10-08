@@ -1,0 +1,5 @@
+This application uses unmodified LibVLC Android 3.7.7, copyright VideoLAN and contributors, licensed under GNU LGPL version 2.1 or later.
+Library API/source: https://code.videolan.org/videolan/libvlcjni
+VLC core source: https://code.videolan.org/videolan/vlc
+Binary distribution: https://repo1.maven.org/maven2/org/videolan/android/libvlc-all/3.7.7/
+The shared native libraries are dynamically linked. The LGPL license is included in libvlc-LGPL-2.1.txt. Library modifications: none.
