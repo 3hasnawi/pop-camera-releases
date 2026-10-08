@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.hatvpip.receiver.overlayfix",
-  "versionCode": 1032055,
-  "versionName": "1.32.0-overlayfix.33.4-pop-camera-updates-2026-10-08",
+  "versionCode": 1032056,
+  "versionName": "1.32.0-overlayfix.33.5-tiles-icons-2026-10-09",
   "minSdk": 26,
-  "sizeBytes": 47861439,
-  "sha256": "5e5fba64c76c8aa092a1ca470bee4a462aed3b739b81ba79b539048714a69e81",
+  "sizeBytes": 47864827,
+  "sha256": "6c76348408f848cde580c326cf5edd197ef4108ecdfe9d363d40b886890a2eb8",
   "signingCertificateSha256": "6b2f54e5a329af43f9df7e84402adceae99a67ca5323112c4333c0cc6fcd5ec3",
-  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032055/pop-camera.apk",
-  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032055"
+  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032056/pop-camera.apk",
+  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032056"
 }
