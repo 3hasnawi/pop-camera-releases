@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "domain": "ha_tv_pip",
+  "version": "1.32.3",
+  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/integration-v1.32.3/pop-camera-integration.zip",
+  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/integration-v1.32.3",
+  "sha256": "80c65b96aebfeeb15c58113b66ef1852574d31779bc0b3878f7b77c45c8579c6",
+  "sizeBytes": 488998
+}
