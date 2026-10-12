@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.hatvpip.receiver.overlayfix",
-  "versionCode": 1032062,
-  "versionName": "1.32.0-overlayfix.33.11-keyboard-navigation-2026-10-12",
+  "versionCode": 1032063,
+  "versionName": "1.32.0-overlayfix.33.12-floating-devices-2026-10-12",
   "minSdk": 26,
-  "sizeBytes": 48754803,
-  "sha256": "a3e6db19f17371705d754decb1abe9b58762dd0bbb87b7c04a0e3f43c9b68fd3",
+  "sizeBytes": 48832271,
+  "sha256": "2aa7ac2a328d5053a64e781f5c5947a59af11dcd3978a803847d3af187c69daa",
   "signingCertificateSha256": "6b2f54e5a329af43f9df7e84402adceae99a67ca5323112c4333c0cc6fcd5ec3",
-  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032062/pop-camera.apk",
-  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032062"
+  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032063/pop-camera.apk",
+  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032063"
 }
