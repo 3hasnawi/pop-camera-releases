@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.hatvpip.receiver.overlayfix",
-  "versionCode": 1032063,
-  "versionName": "1.32.0-overlayfix.33.12-floating-devices-2026-10-12",
+  "versionCode": 1032065,
+  "versionName": "1.32.0-overlayfix.33.14-camera-buttons-2026-10-12",
   "minSdk": 26,
-  "sizeBytes": 48832271,
-  "sha256": "2aa7ac2a328d5053a64e781f5c5947a59af11dcd3978a803847d3af187c69daa",
+  "sizeBytes": 48860686,
+  "sha256": "15bd35cb5457fe2a63f0f0cf2b88ec8b47490e22cd1b0900454aad64b8780a3b",
   "signingCertificateSha256": "6b2f54e5a329af43f9df7e84402adceae99a67ca5323112c4333c0cc6fcd5ec3",
-  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032063/pop-camera.apk",
-  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032063"
+  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032065/pop-camera.apk",
+  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032065"
 }
