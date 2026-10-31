@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.hatvpip.receiver.overlayfix",
-  "versionCode": 1032072,
-  "versionName": "1.32.0-overlayfix.33.21-screensaver-2026-10-19",
+  "versionCode": 1032073,
+  "versionName": "1.32.0-overlayfix.33.22-camera-split-2026-10-31",
   "minSdk": 26,
-  "sizeBytes": 49393183,
-  "sha256": "72a0b642e6bb8b11c51820a58f0f2431c7d4600a0f26f67a3ddb9e8e336cdcaf",
+  "sizeBytes": 49406071,
+  "sha256": "7ae6d99b8df3324b9c8444daa70b7fb43b2b0e95d3312674337e37f4d198326d",
   "signingCertificateSha256": "6b2f54e5a329af43f9df7e84402adceae99a67ca5323112c4333c0cc6fcd5ec3",
-  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032072/pop-camera.apk",
-  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032072"
+  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032073/pop-camera.apk",
+  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032073"
 }
