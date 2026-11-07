@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.hatvpip.receiver.overlayfix",
-  "versionCode": 1032079,
-  "versionName": "1.32.0-overlayfix.33.28-frigate-recordings-2026-11-07",
+  "versionCode": 1032080,
+  "versionName": "1.32.0-overlayfix.33.29-frigate-keyboard-2026-11-07",
   "minSdk": 26,
-  "sizeBytes": 49479867,
-  "sha256": "e39971322adf83b3842703aa02ac793a92542c272768ea83800610ca39101c31",
+  "sizeBytes": 49481223,
+  "sha256": "9806b55c3d04aa6893525c1607eeeac5acf972ae44026c037d2fa6f2473a8fcf",
   "signingCertificateSha256": "6b2f54e5a329af43f9df7e84402adceae99a67ca5323112c4333c0cc6fcd5ec3",
-  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032079/pop-camera.apk",
-  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032079"
+  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032080/pop-camera.apk",
+  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032080"
 }
