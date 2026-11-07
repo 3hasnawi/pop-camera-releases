@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.hatvpip.receiver.overlayfix",
-  "versionCode": 1032077,
-  "versionName": "1.32.0-overlayfix.33.26-rtsp-popup-fallback-2026-11-05",
+  "versionCode": 1032078,
+  "versionName": "1.32.0-overlayfix.33.27-camera-reliability-2026-11-07",
   "minSdk": 26,
-  "sizeBytes": 49419799,
-  "sha256": "b0868079c9450f288705157bae819f48a3cf2c018ad25d2152ab60b67f67c9c3",
+  "sizeBytes": 49421919,
+  "sha256": "ffe3e09b03a7eccd258dc746c8df067ec6b335c4e06b050b3d4c96ebf5bbc797",
   "signingCertificateSha256": "6b2f54e5a329af43f9df7e84402adceae99a67ca5323112c4333c0cc6fcd5ec3",
-  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032077/pop-camera.apk",
-  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032077"
+  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032078/pop-camera.apk",
+  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032078"
 }
