@@ -1,0 +1,50 @@
+{
+  "name": "Nvr",
+  "identifier": "com.hasnawi.nvr.source",
+  "sourceURL": "https://raw.githubusercontent.com/3hasnawi/pop-camera-releases/main/nvr-source.json",
+  "subtitle": "كاميرات Frigate وتسجيلاتها",
+  "description": "مصدر Nvr للسايدلود والتحديثات المستقبلية.",
+  "iconURL": "https://raw.githubusercontent.com/3hasnawi/pop-camera-releases/main/nvr-icon.png",
+  "tintColor": "94EDF0",
+  "apps": [
+    {
+      "name": "Nvr",
+      "bundleIdentifier": "com.hasnawi.nvr",
+      "developerName": "3hasnawi",
+      "subtitle": "Frigate على الآيفون",
+      "localizedDescription": "كاميراتك وتسجيلاتك بواجهة عربية بسيطة. اتصال مباشر بفريجيت، بث WebRTC، تسجيلات بالجودة الأصلية، خط زمني قابل للسحب والتكبير، علامات الأشخاص والسيارات والحيوانات، وحفظ مقاطع محددة في الصور. ملف IPA غير موقع؛ يتولى تطبيق السايدلود توقيعه بشهادتك.",
+      "iconURL": "https://raw.githubusercontent.com/3hasnawi/pop-camera-releases/main/nvr-icon.png",
+      "tintColor": "94EDF0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "5",
+          "date": "2026-11-09T20:35:51+00:00",
+          "localizedDescription": "عرض كاميرات Frigate مباشر، وخط زمني بعلامات الأحداث واختيار التاريخ، وحفظ مقطع تحدد مدته في الصور.",
+          "downloadURL": "https://github.com/3hasnawi/pop-camera-releases/releases/download/nvr-v1.0.0-5/Nvr.ipa",
+          "size": 310052,
+          "sha256": "fd3b4f77479f09b6c6e38e137840caa34d958b0a709dcbb2434be301d03af119",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-09T20:35:51+00:00",
+      "downloadURL": "https://github.com/3hasnawi/pop-camera-releases/releases/download/nvr-v1.0.0-5/Nvr.ipa",
+      "size": 310052,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "يستخدم Nvr الشبكة المحلية للاتصال بخادم Frigate وعرض الكاميرات والتسجيلات."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "يحفظ Nvr مقطع الكاميرا الذي تحدد مدته في مكتبة الصور عند طلبك."
+          }
+        ]
+      }
+    }
+  ],
+  "news": []
+}
