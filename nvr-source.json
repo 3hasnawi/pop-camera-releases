@@ -17,6 +17,16 @@
       "tintColor": "94EDF0",
       "versions": [
         {
+          "version": "1.1.0",
+          "buildVersion": "9",
+          "date": "2026-11-09T21:59:01+00:00",
+          "localizedDescription": "عرض أفقي كامل بخط زمني شفاف ومعاينة أثناء السحب، واقتطاع مباشر بالضغط المطول ومقبضين وحفظ في الصور. عمودي مبسط، وتقويم أعلى، وصوت داخل الصورة. تبديل الكاميرات يحافظ على وقت التسجيل نفسه دون القفز عند غياب التسجيل.",
+          "downloadURL": "https://github.com/3hasnawi/pop-camera-releases/releases/download/nvr-v1.1.0-9/Nvr.ipa",
+          "size": 345754,
+          "sha256": "bcdac347e9b9a31dd9a1a0fd32b7bd0d866044a3ae8a8f32ab2a895b88ecdebb",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "5",
           "date": "2026-11-09T20:35:51+00:00",
@@ -27,10 +37,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.0.0",
-      "versionDate": "2026-11-09T20:35:51+00:00",
-      "downloadURL": "https://github.com/3hasnawi/pop-camera-releases/releases/download/nvr-v1.0.0-5/Nvr.ipa",
-      "size": 310052,
+      "version": "1.1.0",
+      "versionDate": "2026-11-09T21:59:01+00:00",
+      "downloadURL": "https://github.com/3hasnawi/pop-camera-releases/releases/download/nvr-v1.1.0-9/Nvr.ipa",
+      "size": 345754,
       "appPermissions": {
         "entitlements": [],
         "privacy": [
