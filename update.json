@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.hatvpip.receiver.overlayfix",
-  "versionCode": 1032082,
-  "versionName": "1.32.0-overlayfix.33.31-frigate-vlc-2026-11-09",
+  "versionCode": 1032083,
+  "versionName": "1.32.0-overlayfix.33.32-live-only-2026-11-09",
   "minSdk": 26,
-  "sizeBytes": 49504507,
-  "sha256": "215258ad55107fea3d6ddfaef69578ba4c4d4c17d7aedb2e8f872e3189fc7d0c",
+  "sizeBytes": 49420303,
+  "sha256": "98f9c0866c018d1098e57fc1f922245fbdbe512316dd5867af18d4fac7440cb2",
   "signingCertificateSha256": "6b2f54e5a329af43f9df7e84402adceae99a67ca5323112c4333c0cc6fcd5ec3",
-  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032082/pop-camera.apk",
-  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032082"
+  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032083/pop-camera.apk",
+  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032083"
 }
