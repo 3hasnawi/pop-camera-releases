@@ -17,6 +17,16 @@
       "tintColor": "94EDF0",
       "versions": [
         {
+          "version": "1.3.0",
+          "buildVersion": "15",
+          "date": "2026-11-10T15:29:03+00:00",
+          "localizedDescription": "قسم أحداث Frigate ببطاقات وصور وفلاتر للكاميرا والتاريخ والحركة، وفتح الحدث عند وقته وحفظه في الصور بالجودة الأصلية. تحسين فك كتم البث ومسار AAC بديل عند الحاجة. خط زمني وزوم واقتطاع مباشر مع بقاء وقت التسجيل عند تبديل الكاميرات.",
+          "downloadURL": "https://github.com/3hasnawi/pop-camera-releases/releases/download/nvr-v1.3.0-15/Nvr.ipa",
+          "size": 499481,
+          "sha256": "0f2457de3005932da6683dcee5b5fb88418f1ed9a927a7343d34ae512786acad",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.2.0",
           "buildVersion": "13",
           "date": "2026-11-10T04:14:11+00:00",
@@ -47,10 +57,10 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.2.0",
-      "versionDate": "2026-11-10T04:14:11+00:00",
-      "downloadURL": "https://github.com/3hasnawi/pop-camera-releases/releases/download/nvr-v1.2.0-13/Nvr.ipa",
-      "size": 395000,
+      "version": "1.3.0",
+      "versionDate": "2026-11-10T15:29:03+00:00",
+      "downloadURL": "https://github.com/3hasnawi/pop-camera-releases/releases/download/nvr-v1.3.0-15/Nvr.ipa",
+      "size": 499481,
       "appPermissions": {
         "entitlements": [],
         "privacy": [
