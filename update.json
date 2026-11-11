@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.hatvpip.receiver.overlayfix",
-  "versionCode": 1032083,
-  "versionName": "1.32.0-overlayfix.33.32-live-only-2026-11-09",
+  "versionCode": 1032084,
+  "versionName": "1.32.0-overlayfix.33.33-popup-queue-settings-2026-11-11",
   "minSdk": 26,
-  "sizeBytes": 49420303,
-  "sha256": "98f9c0866c018d1098e57fc1f922245fbdbe512316dd5867af18d4fac7440cb2",
+  "sizeBytes": 49377823,
+  "sha256": "3f77dd0a28334a8b689a2ce913640daaaa5c482dffd4a620fdbb6cdc5690cdec",
   "signingCertificateSha256": "6b2f54e5a329af43f9df7e84402adceae99a67ca5323112c4333c0cc6fcd5ec3",
-  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032083/pop-camera.apk",
-  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032083"
+  "downloadUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/download/android-v1032084/pop-camera.apk",
+  "releaseUrl": "https://github.com/3hasnawi/pop-camera-releases/releases/tag/android-v1032084"
 }
